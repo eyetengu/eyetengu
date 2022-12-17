@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eyetengu
-- 👀 I’m interested in ... making things with Arduino, working in my yard and building web stores.
-- 🌱 I’m currently learning ... with Freemote
+- 👀 I’m interested in ... game design, app development, making things with Arduino & working in my yard.
+- 🌱 I’m currently learning ... with GDHQ & Unity Learn
 - 💞️ I’m looking to collaborate on ... projects that make life easier while maintaining individual privacy and personal rights and liberties.
-- 📫 How to reach me ... text or email but I am not yet ready to share that info.
+- 📫 How to reach me ... smoke signals?
 
 Well it looks as though the tutorial hasn't been updated to reflect potential changes on this platform
 UNABLE TO DO THE HELLO-WORLD TUTORIAL 
