@@ -25,6 +25,7 @@ I'm a software engineer with a strong desire for problem-solving via Unity, C#, 
 [**Unity Audio Mixer Project**](https://github.com/eyetengu/Ovani_Audio_Player)
 
 
+![Screenshot 2024-07-28 094448](https://github.com/user-attachments/assets/984b0baa-5b7a-4177-ba34-d7bdc6aebb37)
 
 
 
