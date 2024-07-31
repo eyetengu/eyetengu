@@ -8,7 +8,7 @@
 
 [Resume] ...coming soon
 
-I'm a software engineer with a strong desire for problem-solving via Unity, C#, XR, game development and XR.
+I'm a software engineer with a strong desire for problem-solving via Unity, C#, XR & game development.
 
 <h2>**Here are some of my recent posts**</h2>
 <p>
