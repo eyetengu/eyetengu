@@ -19,10 +19,17 @@ I'm a software engineer with a strong desire for problem-solving via Unity, C#, 
 
 [**Delegates**- cheatsheet](https://medium.com/@younge205/delegates-2d7964332eae?source=your_stories_page-------------------------------------)
 
-
-
-
 </p>
+
+![Screenshot 2024-07-28 094448](https://github.com/user-attachments/assets/d639bf3c-b796-45a5-ac3e-1e28447f0269)
+**Unity Audio Mixer Project**
+
+
+
+
+
+
+
 <!---
 eyetengu/eyetengu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
