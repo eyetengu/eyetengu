@@ -10,11 +10,11 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
-- [Legacy to New Input System](https://medium.com/@eveciana21/legacy-new-input-system-interactable-8b2da4011d43)
-- [C# Survival Guide: Lambda Expressions](https://medium.com/@eveciana21/c-survival-guide-lambda-expression-8a728b741c7e)
-- [Building VR Game on Android](https://medium.com/@eveciana21/building-your-vr-game-on-android-170c4321e358)
-- [Setting Up Gaze Interactions in VR](https://medium.com/@eveciana21/setting-up-gaze-interaction-40c10d3b3941)
-- [Adding Volumetric Fog](https://medium.com/@eveciana21/adding-fog-into-my-office-scene-42f2c9e96c8a)
+- [The Quest & Dialog System- Furthering The Concept](https://medium.com/@younge205/the-quest-dialog-system-furthering-the-concept-c302a88a5ad1?source=user_profile---------3----------------------------)
+- [Interfaces](https://medium.com/@younge205/interfaces-27d3553d2616?source=user_profile---------15----------------------------)
+- [Intelligent Waypoint System](https://medium.com/@younge205/intelligent-waypoint-system-cd215ceacab7?source=user_profile---------17----------------------------)
+- [Physics-Based Character Controller](https://medium.com/@younge205/physics-based-character-controller-e913cfab63c6?source=user_profile---------20----------------------------)
+- [Delegates](https://medium.com/@younge205/delegates-2d7964332eae?source=user_profile---------12----------------------------)
 <!-- BLOG-POST-LIST:END -->
 View more on my [website](https://eveciana21.wixsite.com/lobogames)
 
