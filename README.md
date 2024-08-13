@@ -16,7 +16,7 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 - [Delegates](https://medium.com/@younge205/delegates-2d7964332eae?source=user_profile---------12----------------------------)
 - [Interfaces](https://medium.com/@younge205/interfaces-27d3553d2616?source=user_profile---------15----------------------------)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://eveciana21.wixsite.com/lobogames)
+View more on my [website](https://warrior-ways.com/)
 
 ---
 ### 💾 My projects
@@ -93,9 +93,4 @@ An event system cycles through the hours in a day and days in a month to complet
 <br/>
 <br/>
 
-
-
-
-
 View more on my [website](https://warrior-ways.com/)
-
