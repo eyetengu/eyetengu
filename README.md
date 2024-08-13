@@ -12,7 +12,7 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 <!-- BLOG-POST-LIST:START -->
 - [The Quest & Dialog System- Furthering The Concept](https://medium.com/@younge205/the-quest-dialog-system-furthering-the-concept-c302a88a5ad1?source=user_profile---------3----------------------------)
 - [Interfaces](https://medium.com/@younge205/interfaces-27d3553d2616?source=user_profile---------15----------------------------)
-- [Intelligent Waypoint System](https://medium.com/@younge205/intelligent-waypoint-system-cd215ceacab7?source=user_profile---------17----------------------------)
+- [Creating Player Grips For Variety](https://medium.com/@younge205/creating-player-grips-for-variety-b835beb54541?source=user_profile---------2----------------------------)
 - [Physics-Based Character Controller](https://medium.com/@younge205/physics-based-character-controller-e913cfab63c6?source=user_profile---------20----------------------------)
 - [Delegates](https://medium.com/@younge205/delegates-2d7964332eae?source=user_profile---------12----------------------------)
 <!-- BLOG-POST-LIST:END -->
