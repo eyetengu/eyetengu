@@ -21,7 +21,7 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 ---
 ### 💾 My projects
 
-<img src="https://i.imgur.com/WhN1mac.png" align="left" width="400px"/>
+<img src="http://warrior-ways.com/images/RomanWorld_PreGif-ezgif.com-video-to-gif-converter.gif" align= "left" width= "400px"/>
 
 # Roman Quest Conquest
 This mini-game combines many different systems(dialog, quest & inventory) into a single, playable user experience. The addition of an Audio Mixer and UI round out the experience with individual volume controls and screen brightness adjustability.
@@ -29,7 +29,7 @@ This mini-game combines many different systems(dialog, quest & inventory) into a
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 
 <img src="https://i.imgur.com/1IbHnIc.png" align="left" width="400px"/>
@@ -47,9 +47,7 @@ Control all volume controls and screen brightness via the UI panel controls.
 <br/>
 
 
-<img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
-
-
+<img src="http://warrior-ways.com/images/Screenshot2024-08-06223135.png" align="left" width="400px"/>
 
 # Convoy Defender
 A 2.5D Space Shooter that requires you to defend the convoy.​
@@ -62,7 +60,7 @@ A 2.5D Space Shooter that requires you to defend the convoy.​
 <br/>
 
 
-<img src="https://i.imgur.com/uaA2YE7.png" align="left" width="400px"/> 
+<img src="http://warrior-ways.com/images/Screenshot2024-08-06121801.png" align="left" width="400px"/>
 
 # Card Shark Triple Threat
 Pit your skills against three different opponents in games of chance.
