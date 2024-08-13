@@ -133,10 +133,5 @@ These level design projects were created to showcase the incredible features of 
 <br/>
 <br/>
 
-View more on my [website](https://eveciana21.wixsite.com/lobogames)
+View more on my [website](https://warrior-ways.com/
 
-
-
-eyetengu/eyetengu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
