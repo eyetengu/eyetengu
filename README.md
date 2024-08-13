@@ -45,7 +45,7 @@ Control all volume controls and screen brightness via the UI panel controls.
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 <img src="http://warrior-ways.com/images/Screenshot2024-08-06223135.png" align="left" width="400px"/>
 
@@ -83,9 +83,11 @@ Develop & Enhance your math skills in one of three challenges.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
+<img src="http://warrior-ways.com/images/Screenshot2024-08-02234623.png" align="left" width="400px"/>
 
-<img src="https://i.imgur.com/GqTlUxf.png" align="left" width="400px"/> 
 
 # Under Construction (GGJ-2024)
 An event system cycles through the hours in a day and days in a month to complete the construction of a highrise and smaller companion building.
