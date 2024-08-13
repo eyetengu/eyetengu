@@ -32,9 +32,8 @@ This mini-game combines many different systems(dialog, quest & inventory) into a
 <br/>
 
 
-<img src="https://i.imgur.com/1IbHnIc.png" align="left" width="400px"/>
 
-
+<img src="http://warrior-ways.com/images/Screenshot2024-07-28094546.png" align="left" width="400px"/>
 
 # Sound System
 Control all volume controls and screen brightness via the UI panel controls.
