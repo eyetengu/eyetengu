@@ -72,7 +72,8 @@ Pit your skills against three different opponents in games of chance.
 <br/>
 <br/>
 
-<img src="https://i.imgur.com/xPx9TWf.png" align="left" width="400px"/> 
+
+<img src="http://warrior-ways.com/images/Screenshot2024-08-09105433.png" align="left" width="400px"/>
 
 # Coffeehouse Games
 Develop & Enhance your math skills in one of three challenges.
