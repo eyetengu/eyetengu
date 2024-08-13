@@ -24,23 +24,21 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 
 <img src="https://i.imgur.com/WhN1mac.png" align="left" width="400px"/>
 
-# Undead Redemption
-This game emphasizes my ability to use raycasts and create an enemy AI system
+# Roman Quest Conquest
+This mini-game combines many different systems(dialog, quest & inventory) into a single, playable user experience. The addition of an Audio Mixer and UI round out the experience with individual volume controls and screen brightness adjustability.
 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/1IbHnIc.png" align="left" width="400px"/>
 
 
 
-# My AR World
-Create a desktop oasis or place a war machine on your driveway in AR.
-
+# Sound System
+Control all volume controls and screen brightness via the UI panel controls.
 
 
 <br/>
@@ -54,12 +52,11 @@ Create a desktop oasis or place a war machine on your driveway in AR.
 
 
 
-# Christmas Game Jam
-This game was created for the "Jame Gam Christmas Edition" Game Jam.​
+# Convoy Defender
+A 2.5D Space Shooter that requires you to defend the convoy.​
 
-
-Collaborated with a small team using Git.
-
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -68,24 +65,23 @@ Collaborated with a small team using Git.
 
 <img src="https://i.imgur.com/uaA2YE7.png" align="left" width="400px"/> 
 
-# Galaxy Hero
-Galaxy Hero is an original 2D shoot 'em up game created within Unity using C#.
+# Card Shark Triple Threat
+Pit your skills against three different opponents in games of chance.
 <br/>
 <br/>
-
-Original music created as well.
-
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
 
 <img src="https://i.imgur.com/xPx9TWf.png" align="left" width="400px"/> 
 
-# VR Escape Room
-This is an Escape Room created in XR within Unity using the Universal Render Pipeline.
+# Coffeehouse Games
+Develop & Enhance your math skills in one of three challenges.
 <br/>
 <br/>
-
+<br/>
 <br/>
 <br/>
 <br/>
@@ -93,45 +89,16 @@ This is an Escape Room created in XR within Unity using the Universal Render Pip
 
 <img src="https://i.imgur.com/GqTlUxf.png" align="left" width="400px"/> 
 
-# Galactic Defender
-This game was created with the intent of demonstrating my ability to use Cinemachine and Timeline using Unity 3D and C#.​
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-<img src="https://i.imgur.com/RBRNHWb.png" align="left" width="400px"/> 
-
-# Level Design HDRP
-These level design projects were created to showcase the incredible features of the High Definition Render Pipeline and Universal Render Pipeline
-<br/>
-<br/>
+# Under Construction (a Global Game Jam Project)
+An event system cycles through the hours in a day and days in a month to complete the construction of a highrise and smaller companion building.
 <br/>
 <br/>
 <br/>
 <br/>
 
 
-<img src="https://i.imgur.com/UoEXuml.png" align="left" width="400px"/> 
-
-# Level Design URP
-These level design projects were created to showcase the incredible features of the High Definition Render Pipeline and Universal Render Pipeline
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
 
-View more on my [website](https://warrior-ways.com/
+View more on my [website](https://warrior-ways.com/)
 
