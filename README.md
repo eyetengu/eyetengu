@@ -87,7 +87,7 @@ Develop & Enhance your math skills in one of three challenges.
 
 <img src="https://i.imgur.com/GqTlUxf.png" align="left" width="400px"/> 
 
-# Under Construction (a Global Game Jam Project)
+# Under Construction (GGJ-2024)
 An event system cycles through the hours in a day and days in a month to complete the construction of a highrise and smaller companion building.
 <br/>
 <br/>
