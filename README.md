@@ -23,23 +23,18 @@ View more on my [website](https://warrior-ways.com/)
 
 <img src="http://warrior-ways.com/images/RomanWorld_PreGif-ezgif.com-video-to-gif-converter.gif" align= "left" width= "400px"/>
 
-
 # Roman Quest Conquest
 This mini-game combines many different systems(dialog, quest & inventory) into a single, playable user experience. The addition of an Audio Mixer and UI round out the experience with individual volume controls and screen brightness adjustability.
-
 <br/>
 <br/>
 <br/>
 <br/>
-
 
 
 <img src="http://warrior-ways.com/images/Screenshot2024-07-28094546.png" align="left" width="400px"/>
 
 # Sound System
 Control all volume controls and screen brightness via the UI panel controls.
-
-
 <br/>
 <br/>
 <br/>
